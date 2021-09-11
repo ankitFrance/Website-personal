@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em;
+    font-weight:bold;
+    color:white;
+    padding-left: 15px;
+    }
+    .custom-nav{
+        padding-left: 50px;
+    }
+    
+    .custom-nav .custom-nav-item a{
+        color:white !important;
+     
+        
+    }
+    
+    .custom-nav-item:hover{
+        background-color: #dc3545;
+        border:solid #dc3545 1px;
+        border-radius:10px;
+    }
+
+    .remove-vid-marg{
+        margin:0px ;
+        padding:0px ;
+        
+        }
+        .vid-parent{
+            position:relative;
+        
+        }
+        video{
+            width:100%;
+            height:100%;
+        }
+        .vid-overlay{
+            position:absolute;
+            top:0;
+            left:0;
+            height:100%;
+            width:100%;
+            background-color: orange;
+            opacity:0.2;
+            z-index: 1;
+        }
+        .vid-content
+        {
+        position:absolute;
+        z-index:2;
+        top:40%;
+        left:35%
+        
+         
+        }
+        .vid-content{
+            color: white;
+        }
+        
+
+
+#headingfood{
+   margin:auto;
+   width: 30%;
+
+  padding: 10px;
+  text-align: center;
+  background-color: #b62f2f;
+  color:white;
+}
+#smallheading{
+    margin:auto;
+    width: 50%;
+ 
+  
+   text-align: center;
+}
+
+
+
+#headingtour{
+    margin:auto;
+    width: 30%;
+ 
+   padding: 10px;
+   text-align: center;
+   background-color: #b62f2f;
+   color:white;
+ }
+ #smallheadingtour{
+     margin:auto;
+     width: 50%;
+  
+   
+    text-align: center;
+ }
+
+ 
+#headingent{
+    margin:auto;
+    width: 30%;
+ 
+   padding: 10px;
+   text-align: center;
+   background-color: #b62f2f;
+   color:white;
+ }
+ #smallheadingent{
+     margin:auto;
+     width: 50%;
+  
+   
+    text-align: center;
+ }
+ 
+
+ 
+
+
+
+.size{
+    margin-top: 300px;
+ 
+}
+
+
+
+#headingcontact{
+    margin:auto;
+    width: 30%;
+ 
+   padding: 10px;
+   text-align: center;
+   background-color: #b62f2f;
+   color:white;
+ }
+ #smallheadingcontact{
+     margin:auto;
+     width: 50%;
+  
+   
+    text-align: center;
+ }
+
+ #atext{
+     text-align: justify;
+ }
+
+#mydetails{
+    background-color: #212529;
+}
+
+.towhite h5  {
+    color:white;
+
+}
+
+
+.towhite p  {
+    color:white;
+
+}
+
+.forhiding{
+    margin:auto;
+    width: 100%;
+ height: 60px;
+  
+   text-align: center;
+   background-color: #212529;
+   color:white;
+ }
