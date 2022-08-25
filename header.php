@@ -42,11 +42,10 @@
 
                   ?>
         
-
-                  
-                  <li class=" nav-item custom-nav-item text-white social-hover"> <a href="" class="nav-link"><i class="fab fa-twitter"> </i>  </a></li>
-                  <li class=" nav-item custom-nav-item text-white social-hover"> <a href="" class="nav-link"><i class="fab fa-facebook"> </i>  </a></li>
-                  <li class=" nav-item custom-nav-item text-white social-hover"> <a href="" class="nav-link"><i class="fab fa-instagram"> </i>  </a></li>
+                    
+                  <li class=" nav-item custom-nav-item text-white social-hover"> <a href="" class="nav-link"><i class="fab fa-twitter">  </i> Twitter </a></li> 
+                  <li class=" nav-item custom-nav-item text-white social-hover"> <a href="" class="nav-link"><i class="fab fa-facebook"> </i>  facebook</a></li>
+                  <li class=" nav-item custom-nav-item text-white social-hover"> <a href="" class="nav-link"><i class="fab fa-instagram"> </i> Instagram </a></li>
                 </div>
                 
               </ul>

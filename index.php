@@ -81,16 +81,15 @@
 </button>
     </div>
 </div>
-<!--send video background -->
 
-      <!--Start of Tourism section -->
+
+
 
     </section >
 <!--/////////////////////////////////////////////////////////////////////////////-->
     <section id="travel">
       <div class="forhiding"></div> <h1> </h1>    </div>
-
-    <div id="headingtour">    <h1> Explore the Places  </h1>    </div>
+  <div id="headingtour">    <h1> Explore the Places  </h1>    </div>
         
      
     <div id ="smallheadingtour">  <h3 class="text-muted">Come To Life.</h3> </div>
@@ -107,7 +106,7 @@
           <div class="card-body">
             <h5 class="card-title">Iskcon Temple</h5>
             <p class="card-text">ISKCON stands for the International Society for Krishna Consciousness. attracts visitors in lakhs, annually. International Society for Krishna Consciousness. attracts visitors for Krishna Consciousness</p>
-            <a href="#" class="btn btn-primary">Go Here</a>
+            <a href="#" class="btn btn-primary">EXPLORE</a>
           </div>
         </div>
       </div>
@@ -122,7 +121,7 @@
           <div class="card-body">
             <h5 class="card-title">Humayun's Tomb</h5>
             <p class="card-text">Humayun's tomb (Hindustani or Urdu: Maqbara-i Humayun) is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun's first wife .</p>
-            <a href="#" class="btn btn-primary">Go Here</a>
+            <a href="#" class="btn btn-primary">EXPLORE</a>
           </div>
         </div>
       </div>
@@ -137,7 +136,7 @@
           <div class="card-body">
             <h5 class="card-title">Lodi's Tomb</h5>
             <p class="card-text">The old Lady Willington Park, now known as Lodhi Garden, is dotted with monuments of Sayyid and Lodhi Periods, which include tombs mosques, and bridges  Willington Park, now known as Lodhi Garden.</p>
-            <a href="#" class="btn btn-primary">Go Here</a>
+            <a href="#" class="btn btn-primary">EXPLORE</a>
           </div>
         </div>
       </div>
@@ -152,7 +151,7 @@
           <div class="card-body">
             <h5 class="card-title">Jantar Mantar</h5>
             <p class="card-text">Jantar Mantar (Yantra - instruments, mantra - formulae) was constructed in 1724. Maharaja Jai Singh of Jaipur who built this observatory went on to build other observatories in Ujjain.</p>
-            <a href="#" class="btn btn-primary">Go Here</a>
+            <a href="#" class="btn btn-primary">EXPLORE</a>
           </div>
         </div>
       </div>
@@ -168,7 +167,7 @@
           <div class="card-body">
             <h5 class="card-title">Qutab Minar</h5>
             <p class="card-text">Qutab Minar is a soaring, 73 m-high tower of victory, built in 1193 by Qutab-ud-din Aibak immediately after the defeat of Delhi's last Hindu kingdom..</p>
-            <a href="#" class="btn btn-primary">Go Here</a>
+            <a href="#" class="btn btn-primary">EXPLORE</a>
           </div>
         </div>
       </div>
@@ -182,7 +181,7 @@
           <div class="card-body">
             <h5 class="card-title"> Dilli Haat INA</h5>
             <p class="card-text">The craftsmen who are registered with D.C.Handicrafts are the ones who are eligible to find a place here. registered with D.C.Handicrafts</p>
-            <a href="#" class="btn btn-primary">Go Here</a>
+            <a href="#" class="btn btn-primary">EXPLORE</a>
           </div>
         </div>
       </div>
@@ -196,7 +195,7 @@
         <div class="card-body">
           <h5 class="card-title">Jama Masjid</h5>
           <p class="card-text">This great mosque of Old Delhi is the largest in India, with a courtyard capable of holding 25,000 devotees. It was begun in 1644 and ended up being.</p>
-          <a href="#" class="btn btn-primary">Go here</a>
+          <a href="#" class="btn btn-primary">EXPLORE</a>
         </div>
       </div>
     </div>
@@ -210,7 +209,7 @@
       <div class="card-body">
         <h5 class="card-title">India Gate</h5>
         <p class="card-text">The India Gate (formerly known as the All India War Memorial) is a war memorial located astride the Rajpath, on the eastern edge of the "ceremonial axis" of New Delhi.</p>
-        <a href="#" class="btn btn-primary">Go Here</a>
+        <a href="#" class="btn btn-primary">EXPLORE</a>
       </div>
     </div>
   </div>
